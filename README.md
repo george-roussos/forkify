@@ -9,4 +9,4 @@ Forkify is an application frontend for recipes. It supports:
 - Servings adjusting, based on the number of people
 - Recipe uploading (only works with the API used in conjuction, see [here](https://forkify-api.herokuapp.com/))
 
-Built on vanilla JS, CSS and HTML. For a demo round, you can head to [george-forkify.netlify.app](george-forkify.netlify.app). 😀
+Built on vanilla JS, CSS and HTML. For a demo round, you can head to [george-forkify.netlify.app](https://george-forkify.netlify.app). 😀
